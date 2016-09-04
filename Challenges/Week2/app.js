@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //create function
   //control and return statements
@@ -22,5 +23,3 @@ function  callToResponse (answer) {
   callToResponse(answer);
   alert(response)
   }
-
-  
