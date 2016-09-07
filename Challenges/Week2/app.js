@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 //create function
   //control and return statements
@@ -21,5 +21,5 @@ function  callToResponse (answer) {
   while (loop === 0 ) {
   answer= prompt('What is the first thing you say to the world in programming?');
   callToResponse(answer);
-  alert(response)
+  alert(response);
   }
