@@ -21,7 +21,9 @@ h1 {
     display: block;
     text-align: center;
 }
-
+#card-table {
+text-align:center;
+}
 .flash-card {
     background: white;
     color: black;
@@ -61,7 +63,7 @@ ul li {
     cursor: pointer;
 }
 
-.cheat-button {
+#cheat-button {
     color: white;
     background-color: purple;
     border: none;
